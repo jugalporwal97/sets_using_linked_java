@@ -1,5 +1,4 @@
-// A complete working Java program to demonstrate all insertion methods 
-// on linked list 
+// implementing sets using linked list in java
 class LinkedList 
 { 
 	Node head;
